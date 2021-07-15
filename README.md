@@ -40,4 +40,4 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-Harpia-Vieillot.vercel.app/api/spotify-playing" alt="Harpia-Vieillot Spotify Playing" width="350" />](https://open.spotify.com/user/l5bdgkqogezl2m2xxbx66vpxn)
+[<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Harpia-Vieillot Spotify Playing" width="350" />](https://open.spotify.com/user/l5bdgkqogezl2m2xxbx66vpxn)
