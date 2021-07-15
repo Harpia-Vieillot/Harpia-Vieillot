@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hɪ ᴛʜᴇʀᴇ 👋🏻 Vɪɴᴀʏᴀᴋ Pᴀɴᴅᴇʏ ᴛʜɪs sɪᴅᴇ
 
-<!--
-**Harpia-Vieillot/Harpia-Vieillot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨🏻‍💻 Aʙᴏᴜᴛ Mᴇ
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working at <a href="https://github.com/Gladiators-Projects"><img alt="Website" src="https://img.shields.io/badge/Gladiators-Projects-blue"></a>
+- 🌱 I’m currently learning Python.
+- 💬 Ask me about anything.
+- ⚡ Fun fact: I am still in development!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Lᴀɴɢᴜᴀɢᴇs Aɴᴅ Tᴏᴏʟs
+
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
