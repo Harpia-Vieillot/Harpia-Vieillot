@@ -5,7 +5,7 @@
 - 🔭 I’m currently working at <a href="https://github.com/Gladiators-Projects"><img alt="Website" src="https://img.shields.io/badge/Gladiators-Projects-blue"></a>
 - 🌱 I’m currently learning Python.
 - 💬 Ask me about anything.
-- ⚡ Fun fact: I am still in development!!
+- ⚡ Fun fact: I am still under development!!
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harpia-vieillot" alt="harpia-vieillot" /></a> </p>
 
