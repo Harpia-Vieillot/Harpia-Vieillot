@@ -1,10 +1,10 @@
 ### Hɪ ᴛʜᴇʀᴇ 👋🏻 Vɪɴᴀʏᴀᴋ Pᴀɴᴅᴇʏ ᴛʜɪs sɪᴅᴇ
 
-<--### 👨🏻‍💻 Aʙᴏᴜᴛ Mᴇ-->
 ### 🚀 Gɪᴛʜᴜʙ Aɴᴀʟʏᴛɪᴄs
 
 ![Metrics](https://metrics.lecoq.io/Harpia-Vieillot?template=classic&repositories.affiliations=Harpia-Vieillot&achievements=1&languages=1&repositories=1&people=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=Harpia-Vieillot&languages.limit=100&languages.sections=most-used&languages.colors=github&languages.aliases=Java%3APython&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=100&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&repositories.featured=Gladiators-Projects%2FSpamBot%2C%20Harpia-Vieillot%2FDiscord-Nitro&config.timezone=Asia%2FCalcutta&config.twemoji=true)
 <!--
+### 👨🏻‍💻 Aʙᴏᴜᴛ Mᴇ
 - 🔭 I’m currently working at <a href="https://github.com/Gladiators-Projects"><img alt="Website" src="https://img.shields.io/badge/Gladiators-Projects-blue"></a>
 - 🌱 I’m currently learning Python.
 - 💬 Ask me about anything.
