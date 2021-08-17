@@ -1,6 +1,7 @@
 ### Hɪ ᴛʜᴇʀᴇ 👋🏻 Vɪɴᴀʏᴀᴋ Pᴀɴᴅᴇʏ ᴛʜɪs sɪᴅᴇ
 
-### 👨🏻‍💻 Aʙᴏᴜᴛ Mᴇ
+<--### 👨🏻‍💻 Aʙᴏᴜᴛ Mᴇ-->
+### 🚀 Gɪᴛʜᴜʙ Aɴᴀʟʏᴛɪᴄs
 
 ![Metrics](https://metrics.lecoq.io/Harpia-Vieillot?template=classic&repositories.affiliations=Harpia-Vieillot&achievements=1&languages=1&repositories=1&people=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=Harpia-Vieillot&languages.limit=100&languages.sections=most-used&languages.colors=github&languages.aliases=Java%3APython&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=100&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&repositories.featured=Gladiators-Projects%2FSpamBot%2C%20Harpia-Vieillot%2FDiscord-Nitro&config.timezone=Asia%2FCalcutta&config.twemoji=true)
 <!--
@@ -31,6 +32,7 @@
   ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
+<!--
 ### 🚀 Gɪᴛʜᴜʙ Aɴᴀʟʏᴛɪᴄs
 
 <p align="center">
@@ -39,7 +41,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Harpia-Vieillot&layout=compact&langs_count=8&theme=buefy"/>
 </a>
 </p>
-
+-->
 ### Spotify Playing 🎧
 
 [<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Harpia-Vieillot Spotify Playing" width="350" />](https://open.spotify.com/user/l5bdgkqogezl2m2xxbx66vpxn)
