@@ -43,6 +43,6 @@
 </a>
 </p>
 -->
-### Spotify Playing 🎧
+### 🎧 Sᴘᴏᴛɪғʏ Pʟᴀʏɪɴɢ
 
 [<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Harpia-Vieillot Spotify Playing" width="350" />](https://open.spotify.com/user/l5bdgkqogezl2m2xxbx66vpxn)
