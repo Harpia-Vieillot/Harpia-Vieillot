@@ -33,6 +33,9 @@
   ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
+### 📞 Cᴏɴᴛᴀᴄᴛ Mᴇ
+
+   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Harpia_Vieillot)
 <!--
 ### 🚀 Gɪᴛʜᴜʙ Aɴᴀʟʏᴛɪᴄs
 
