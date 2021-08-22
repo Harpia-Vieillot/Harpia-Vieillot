@@ -2,7 +2,7 @@
 [![Profile views](https://komarev.com/ghpvc/?username=Harpia-Vieillot&label=Profile%20views)](https://github.com/Harpia-Vieillot)
 ### 🚀 Gɪᴛʜᴜʙ Aɴᴀʟʏᴛɪᴄs
 
-![Metrics](https://metrics.lecoq.io/Harpia-Vieillot?template=classic&languages=1&people=1&achievements=1&repositories=1&lines=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=100&languages.sections=most-used&languages.colors=github&languages.aliases=Java%3APython%3AC%2B%2B&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=100&people.size=50&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=100&achievements.ignored=Follower&repositories.featured=Gladiators-Projects%2FSpamBot%2C%20Harpia-Vieillot%2FDiscord-Nitro&config.timezone=Asia%2FCalcutta)
+[![Metrics](https://metrics.lecoq.io/Harpia-Vieillot?template=classic&languages=1&people=1&achievements=1&repositories=1&lines=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=100&languages.sections=most-used&languages.colors=github&languages.aliases=Java%3APython%3AC%2B%2B&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=100&people.size=50&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=100&achievements.ignored=Follower&repositories.featured=Gladiators-Projects%2FSpamBot%2C%20Harpia-Vieillot%2FDiscord-Nitro&config.timezone=Asia%2FCalcutta)](https://github.com/Harpia-Vieillot/Harpia-Vieillot/)
 
 <!--
 ### 👨🏻‍💻 Aʙᴏᴜᴛ Mᴇ
@@ -11,7 +11,8 @@
 - 💬 Ask me about anything.
 - ⚡ Fun fact: I am still under development!!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harpia-vieillot" alt="harpia-vieillot" /></a> </p>-->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harpia-vieillot" alt="harpia-vieillot" /></a> </p>
+-->
 
 ### 🛠️ Lᴀɴɢᴜᴀɢᴇs Aɴᴅ Tᴏᴏʟs
 
