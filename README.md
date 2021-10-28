@@ -1,3 +1,34 @@
+#box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color:#1D1F20;
+  width: 400px;
+  height: 200px;
+  color: white;
+  font-family: 'Raleway';
+  font-size: 2.5rem;
+}
+.box {
+  --borderWidth: 3px;
+  background: #1D1F20;
+  position: relative;
+  border-radius: var(--borderWidth);
+}
+.box:after {
+  content: '';
+  position: absolute;
+  top: calc(-1 * var(--borderWidth));
+  left: calc(-1 * var(--borderWidth));
+  height: calc(100% + var(--borderWidth) * 2);
+  width: calc(100% + var(--borderWidth) * 2);
+  background: linear-gradient(60deg, #f79533, #f37055, #ef4e7b, #a166ab, #5073b8, #1098ad, #07b39b, #6fba82);
+  border-radius: calc(2 * var(--borderWidth));
+  z-index: -1;
+  animation: animatedgradient 3s ease alternate infinite;
+  background-size: 300% 300%;
+}
+
 ### Hɪ ᴛʜᴇʀᴇ 👋🏻 Vɪɴᴀʏᴀᴋ Pᴀɴᴅᴇʏ ᴛʜɪs sɪᴅᴇ
 [![Profile views](https://komarev.com/ghpvc/?username=Harpia-Vieillot&label=Profile%20views)](https://github.com/Harpia-Vieillot)
 ### 🚀 Gɪᴛʜᴜʙ Aɴᴀʟʏᴛɪᴄs
@@ -44,8 +75,10 @@
 <p align="center">
 <a href="https://github.com/Harpia-Vieillot">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Harpia-Vieillot&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Harpia-Vieillot&layout=compact&langs_count=8&theme=buefy"/>
 </a>
+<div class="box">
+  <center><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Harpia-Vieillot&layout=compact&langs_count=8&theme=buefy"/></center>
+</div>
 </p>
 -->
 ### 🎧 Sᴘᴏᴛɪғʏ Pʟᴀʏɪɴɢ
