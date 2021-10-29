@@ -3,14 +3,14 @@
 ### Hɪ ᴛʜᴇʀᴇ 👋🏻 Vɪɴᴀʏᴀᴋ Pᴀɴᴅᴇʏ ᴛʜɪs sɪᴅᴇ
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Harpia-Vieillot/count.svg" />
+  [<img src="https://profile-counter.glitch.me/Harpia-Vieillot/count.svg" />](https://github.com/Harpia-Vieillot)
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%231AF73D&size=27&width=500&lines=Hey!+It's+Vinayak+Pandey!;I'm+a+learning+developer...;I+love+to+code%2C+work+on+cool+projects;and+take+on+challenges...;Thanks+for+visiting+%E2%9D%A4%EF%B8%8F)](https://github.com/Harpia-Vieillot)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/VinayakPandey)
 
-[<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>](https://github.com/Harpia-Vieillot/Harpia-Vieillot/)
+[<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>](https://github.com/Harpia-Vieillot)
 
 ```
 class Vinayak():
