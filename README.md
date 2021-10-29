@@ -1,7 +1,7 @@
 
 
 ### Hɪ ᴛʜᴇʀᴇ 👋🏻 Vɪɴᴀʏᴀᴋ Pᴀɴᴅᴇʏ ᴛʜɪs sɪᴅᴇ
-[![Profile views](https://komarev.com/ghpvc/?username=Harpia-Vieillot&label=Profile%20views)](https://github.com/Harpia-Vieillot)
+[![Profile views](https://komarev.com/ghpvc/?username=Harpia-Vieillot&label=visits)](https://github.com/Harpia-Vieillot)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%231AF73D&size=27&width=500&lines=Hey!+It's+Vinayak+Pandey!;I'm+a+learning+developer...;I+love+to+code%2C+work+on+cool+projects;and+take+on+challenges...;Thanks+for+visiting+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
@@ -38,8 +38,8 @@ class Vinayak():
  ```
 ### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Gɪᴛʜᴜʙ Aɴᴀʟʏᴛɪᴄs
 
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Harpia-Vieillot&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
-<img height="180cm" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Harpia-Vieillot&layout=compact&langs_count=8&theme=buefy"/>
+[<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Harpia-Vieillot&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>](https://github.com/Harpia-Vieillot/Harpia-Vieillot/)
+[<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harpia-Vieillot&theme=chartreuse-dark&hide_border=True" float=left/>](https://github.com/Harpia-Vieillot/Harpia-Vieillot/)
 
 
 
