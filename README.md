@@ -31,6 +31,10 @@ class Vinayak():
         return [
             'Arch Linux', 'Kali', 'Ubuntu', 'Lubuntu'
         ]
+    def windows_os(self):
+        return [
+            'Windows 11', 'Windows 10', 'Windows 7'
+        ]
  ```
 ### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Gɪᴛʜᴜʙ Aɴᴀʟʏᴛɪᴄs
 
