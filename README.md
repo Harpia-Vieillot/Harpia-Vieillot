@@ -44,7 +44,7 @@ class Vinayak():
  
  [<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/hr.gif"/>](https://github.com/Harpia-Vieillot)
 
-### [<img src = "https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/analytics.webp" width = 27px>](https://github.com/Harpia-Vieillot) Gɪᴛʜᴜʙ Aɴᴀʟʏᴛɪᴄs
+### [<img src = "https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/analytics.webp" width = 34px>](https://github.com/Harpia-Vieillot) Gɪᴛʜᴜʙ Aɴᴀʟʏᴛɪᴄs
 
 [<img src="https://github-readme-stats.vercel.app/api?username=Harpia-Vieillot&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>](https://github.com/Harpia-Vieillot) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harpia-Vieillot&theme=chartreuse-dark&hide_border=True" />](https://github.com/Harpia-Vieillot)
 
@@ -60,6 +60,6 @@ class Vinayak():
 
 [<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/hr.gif"/>](https://github.com/Harpia-Vieillot)
 
-### [<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/songs.gif" width = 27px>](https://t.me/Harpia_Vieillot) Sᴘᴏᴛɪғʏ Pʟᴀʏɪɴɢ
+### [<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/songs.gif" width = 34px>](https://t.me/Harpia_Vieillot) Sᴘᴏᴛɪғʏ Pʟᴀʏɪɴɢ
 
 [<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Harpia-Vieillot Spotify Playing" width="350" />](https://open.spotify.com/user/l5bdgkqogezl2m2xxbx66vpxn)
