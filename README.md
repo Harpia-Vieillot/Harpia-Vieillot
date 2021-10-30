@@ -44,25 +44,25 @@ class Vinayak():
  
  [<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/hr.gif"/>](https://github.com/Harpia-Vieillot)
 
-<h3> [<img src = "https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/analytics.webp" width = 37px>](https://github.com/Harpia-Vieillot) Gɪᴛʜᴜʙ Aɴᴀʟʏᴛɪᴄs </h3>
+<h1> <img src = "https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/analytics.webp" width = 37px> Gɪᴛʜᴜʙ Aɴᴀʟʏᴛɪᴄs </h1>
 
 [<img src="https://github-readme-stats.vercel.app/api?username=Harpia-Vieillot&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000" width="49%">](https://github.com/Harpia-Vieillot) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harpia-Vieillot&theme=chartreuse-dark&hide_border=True" width="49%">](https://github.com/Harpia-Vieillot)
 [<img src="https://activity-graph.herokuapp.com/graph?username=Harpia-Vieillot&theme=chartreuse-dark&bg_color=20232a&hide_border=true" width="100%">](https://github.com/Harpia-Vieillot)
 
 [<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/hr.gif"/>](https://github.com/Harpia-Vieillot)
 
-<h3> [<img src = "https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/snake.gif" width = 37px>](https://github.com/Harpia-Vieillot) Sɴᴀᴋᴇ ᴇᴀᴛɪɴɢ ᴍʏ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀᴀᴘʜ </h3>
+<h1> <img src = "https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/snake.gif" width = 37px> Sɴᴀᴋᴇ ᴇᴀᴛɪɴɢ ᴍʏ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀᴀᴘʜ </h1>
 
 [![snake gif](https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/output/github-contribution-grid-snake.svg)](https://github.com/Harpia-Vieillot)
 
 [<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/hr.gif"/>](https://github.com/Harpia-Vieillot)
 
-<h3> 📞 Cᴏɴᴛᴀᴄᴛ Mᴇ </h3>
+<h1> 📞 Cᴏɴᴛᴀᴄᴛ Mᴇ </h1>
 
    [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Harpia_Vieillot)
 
 [<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/hr.gif"/>](https://github.com/Harpia-Vieillot)
 
-<h3> [<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/songs.gif" width = 37px>](https://t.me/Harpia_Vieillot) Sᴘᴏᴛɪғʏ Pʟᴀʏɪɴɢ </h3>
+<h1> <img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/songs.gif" width = 37px> Sᴘᴏᴛɪғʏ Pʟᴀʏɪɴɢ </h1>
 
 [<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Harpia-Vieillot Spotify Playing" width="350" />](https://open.spotify.com/user/l5bdgkqogezl2m2xxbx66vpxn)
