@@ -10,7 +10,7 @@
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/VinayakPandey)
 
-[<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>](https://github.com/Harpia-Vieillot)
+[<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/hr.gif"/>](https://github.com/Harpia-Vieillot)
 
 ```
 class Vinayak():
@@ -42,23 +42,23 @@ class Vinayak():
         ]
  ```
  
-[<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>](https://github.com/Harpia-Vieillot)
+ [<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/hr.gif"/>](https://github.com/Harpia-Vieillot)
 
 ### [<img src = "https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/analytics.webp" width = 27px>](https://github.com/Harpia-Vieillot) Gɪᴛʜᴜʙ Aɴᴀʟʏᴛɪᴄs
 
 [<img src="https://github-readme-stats.vercel.app/api?username=Harpia-Vieillot&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>](https://github.com/Harpia-Vieillot) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harpia-Vieillot&theme=chartreuse-dark&hide_border=True" />](https://github.com/Harpia-Vieillot)
 
-[<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>](https://github.com/Harpia-Vieillot)
+[<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/hr.gif"/>](https://github.com/Harpia-Vieillot)
 
 [![snake gif](https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/output/github-contribution-grid-snake.svg)](https://github.com/Harpia-Vieillot)
 
-[<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>](https://github.com/Harpia-Vieillot)
+[<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/hr.gif"/>](https://github.com/Harpia-Vieillot)
 
 ### 📞 Cᴏɴᴛᴀᴄᴛ Mᴇ
 
    [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Harpia_Vieillot)
 
-[<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>](https://github.com/Harpia-Vieillot)
+[<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/hr.gif"/>](https://github.com/Harpia-Vieillot)
 
 ### 🎧 Sᴘᴏᴛɪғʏ Pʟᴀʏɪɴɢ
 
