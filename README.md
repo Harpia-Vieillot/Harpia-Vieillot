@@ -2,7 +2,7 @@
 
 <h1> Hɪ ᴛʜᴇʀᴇ 👋🏻 Vɪɴᴀʏᴀᴋ Pᴀɴᴅᴇʏ ᴛʜɪs sɪᴅᴇ </h1>
 <p align="center">
-    <h2> Vɪsɪᴛᴏʀ Cᴏᴜɴᴛ </h2><br>
+    <b>Vɪsɪᴛᴏʀ Cᴏᴜɴᴛ</b><br>
     <img align="middle" src="https://profile-counter.glitch.me/Harpia-Vieillot/count.svg" />
 </p>
 
