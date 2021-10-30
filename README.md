@@ -46,7 +46,7 @@ class Vinayak():
 
 ### [<img src = "https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/analytics.webp" width = 37px>](https://github.com/Harpia-Vieillot) Gɪᴛʜᴜʙ Aɴᴀʟʏᴛɪᴄs
 
-[<img src="https://github-readme-stats.vercel.app/api?username=Harpia-Vieillot&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000" width=50%>](https://github.com/Harpia-Vieillot) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harpia-Vieillot&theme=chartreuse-dark&hide_border=True" width=50%>](https://github.com/Harpia-Vieillot)
+[<img src="https://github-readme-stats.vercel.app/api?username=Harpia-Vieillot&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000" width="50%">](https://github.com/Harpia-Vieillot) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harpia-Vieillot&theme=chartreuse-dark&hide_border=True" width="50%">](https://github.com/Harpia-Vieillot)
 
 [<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/hr.gif"/>](https://github.com/Harpia-Vieillot)
 
