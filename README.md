@@ -1,6 +1,6 @@
 
 
-<h2> Hɪ ᴛʜᴇʀᴇ 👋🏻 Vɪɴᴀʏᴀᴋ Pᴀɴᴅᴇʏ ᴛʜɪs sɪᴅᴇ </h2>
+<h1> Hɪ ᴛʜᴇʀᴇ 👋🏻 Vɪɴᴀʏᴀᴋ Pᴀɴᴅᴇʏ ᴛʜɪs sɪᴅᴇ </h1>
 <p align="center">
     Vɪsɪᴛᴏʀ Cᴏᴜɴᴛ<br>
     <img align="middle" src="https://profile-counter.glitch.me/Harpia-Vieillot/count.svg" />
