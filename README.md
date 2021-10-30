@@ -50,6 +50,8 @@ class Vinayak():
 
 [<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/hr.gif"/>](https://github.com/Harpia-Vieillot)
 
+### [<img src = "https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/snake.gif" width = 37px>](https://github.com/Harpia-Vieillot) Sɴᴀᴋᴇ ᴇᴀᴛɪɴɢ ᴍʏ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ ɢʀᴀᴘʜ
+
 [![snake gif](https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/output/github-contribution-grid-snake.svg)](https://github.com/Harpia-Vieillot)
 
 [<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/hr.gif"/>](https://github.com/Harpia-Vieillot)
