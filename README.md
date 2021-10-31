@@ -1,6 +1,6 @@
 
 
-<h1> Hɪ ᴛʜᴇʀᴇ 👋🏻 Vɪɴᴀʏᴀᴋ Pᴀɴᴅᴇʏ ᴛʜɪs sɪᴅᴇ </h1>
+<h1> <img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/codes.webp" width="50px">Hᴇʏ ᴛʜᴇʀᴇ, Vɪɴᴀʏᴀᴋ Pᴀɴᴅᴇʏ ᴛʜɪs sɪᴅᴇ </h1>
 <p align="center">
     <b>Vɪsɪᴛᴏʀ Cᴏᴜɴᴛ</b><br>
     <img align="middle" src="https://profile-counter.glitch.me/Harpia-Vieillot/count.svg" />
