@@ -25,7 +25,7 @@
 					animation: animatedgradient 3s ease alternate infinite;
 					background-size: 300% 300%;
 				}
-				@keyframes gradientBackground {
+				@keyframes animatedgradient {
 					0% {
 						background-position: 0% 50%;
 					}
@@ -34,14 +34,6 @@
 					}
 					100% {
 						background-position: 0% 50%;
-					}
-				}
-				@keyframes rotate {
-					0% {
-						transform: rotate(3deg);
-					}
-					100% {
-						transform: rotate(-3deg);
 					}
 				}
 			</style>
