@@ -6,6 +6,12 @@
 					border-radius: 50%;
 					width: 200px;
 				}
+				body {
+					display: flex;
+					justify-content: center;
+					align-items: center;
+					height: 100%;
+				}
 				.box {
 					--borderWidth: 7px;
 					border-radius: 100%;
