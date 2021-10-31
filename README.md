@@ -11,6 +11,7 @@
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/VinayakPandey)
 
 [<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/hr.gif"/>](https://github.com/Harpia-Vieillot)
+<h1> <img src"https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/dragon.webp" width="57px"> Aʙᴏᴜᴛ Mᴇ </h1>
 ```
 class Vinayak():
     def __init__(self):
