@@ -6,7 +6,7 @@
 					border-radius: 50%;
 					width: 200px;
 				}
-				body {
+				.whole {
 					display: flex;
 					justify-content: center;
 					align-items: center;
@@ -43,8 +43,10 @@
 					}
 				}
 			</style>
-			<div class="box">
-				<img class="image" src="https://avatars.githubusercontent.com/u/87496159?v=4" />
+			<div class="whole">
+				<div class="box">
+					<img class="image" src="https://avatars.githubusercontent.com/u/87496159?v=4" />
+				</div>
 			</div>
 		</div>
 	</foreignObject>
