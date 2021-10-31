@@ -62,7 +62,7 @@ class Vinayak():
 
 <h1> 📞 Cᴏɴᴛᴀᴄᴛ Mᴇ </h1>
 
- [<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/telegram_icon.png" width="100px">](https://t.me/Harpia_Vieillot) [<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/git_icon.png" width="100px">](https://github.com/Harpia-Vieillot)
+ [<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/telegram_icon.png" width="100px">](https://t.me/Harpia_Vieillot) [<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/github_icon.png" width="100px">](https://github.com/Harpia-Vieillot)
 
 [<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/hr.gif"/>](https://github.com/Harpia-Vieillot)
 
