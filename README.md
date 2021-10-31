@@ -62,7 +62,7 @@ class Vinayak():
 
 <h1> 📞 Cᴏɴᴛᴀᴄᴛ Mᴇ </h1>
 
-   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Harpia_Vieillot)
+   [<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/telegram_icon.png" >](https://t.me/Harpia_Vieillot)
 
 [<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/hr.gif"/>](https://github.com/Harpia-Vieillot)
 
