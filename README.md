@@ -12,7 +12,7 @@
 
 [<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/hr.gif"/>](https://github.com/Harpia-Vieillot)
 
-<h1> <img src"https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/dragon.webp" width="57px"> Aʙᴏᴜᴛ Mᴇ </h1>
+<h1> <img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/dragon.webp" width="57px"> Aʙᴏᴜᴛ Mᴇ </h1>
 
 ```
 class Vinayak():
