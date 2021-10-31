@@ -60,7 +60,7 @@ class Vinayak():
 
 [<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/hr.gif"/>](https://github.com/Harpia-Vieillot)
 
-<h1> <img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/connect.gif" width="100px">Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ<br> </h1>
+<h1> <img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/connect.gif" width="70px"> Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ </h1>
 
  [<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/telegram_icon.png" width="100px">](https://t.me/Harpia_Vieillot) [<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/github_icon.png" width="100px">](https://github.com/Harpia-Vieillot)
 
