@@ -1,133 +1,137 @@
-<svg viewBox="-55 -55 110 110" width="300" height="300">
-  <style>
-    * {
-        box-sizing: border-box;
-        padding: 0;
-        margin: 0;
-    }
-    body {
-        min-height: 100vh;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-
-    svg {
-        width: 15rem;
-        height: auto;
-        display: block;
-        color: hsl(240, 95%, 26%);
-    }
-
-
-    svg {
-        --duration: 3s;
-    }
-
-    #dashoffset {
-        animation: dashoffset 3s steps(30);
-        animation: dashoffset var(--duration) steps(30);
-    }
-
-    .rotate {
-        animation: rotate 3s steps(30);
-        animation: rotate var(--duration) steps(30);
-    }
-
-    .opacity {
-        animation: opacity 0s 3s step-end both;
-        animation: opacity 0s var(--duration) step-end both;
-    }
-
-    @keyframes rotate {
-        100% {
-            transform: rotate(-1turn);
+<svg viewBox="-55 -55 110 110" width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        * {
+            box-sizing: border-box;
+            padding: 0;
+            margin: 0;
         }
-    }
-
-    @keyframes dashoffset {
-        0% {
-            stroke-dashoffset: 0;
+        body {
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
         }
-    }
 
-    @keyframes opacity {
-        0% {
-            opacity: 0;
+        svg {
+            width: 15rem;
+            height: auto;
+            display: block;
+            color: hsl(240, 95%, 26%);
         }
-        100% {
-            opacity: 1;
+
+
+        svg {
+            --duration: 3s;
         }
-    }
-  </style>
-  <defs>
-      <path id="line" fill="none" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M 0 -45 a 45 45 0 0 1 0 90 45 45 0 0 1 0
-  -90" />
 
-      <circle id="circle" r="10" />
-      <use id="circle--large" href="#circle" transform="scale(3)" />
+        #dashoffset {
+            animation: dashoffset 3s steps(30);
+            animation: dashoffset var(--duration) steps(30);
+        }
 
-      <mask id="mask__circle">
-          <use fill="hsl(0, 0%, 100%)" href="#circle--large" />
-          <use fill="hsl(0, 0%, 0%)" href="#circle" transform="rotate(45) translate(0 -15)" />
-      </mask>
+        .rotate {
+            animation: rotate 3s steps(30);
+            animation: rotate var(--duration) steps(30);
+        }
 
-      <mask id="mask__line">
-          <use href="#line" stroke="hsl(0, 0%, 100%)" />
-          <g transform="rotate(45)">
+        .opacity {
+            animation: opacity 0s 3s step-end both;
+            animation: opacity 0s var(--duration) step-end both;
+        }
 
-              <use id="dashoffset" href="#line" stroke="hsl(0, 0%, 0%)" stroke-dasharray="282.6" stroke-dashoffset="282.6" />
+        @keyframes rotate {
+            100% {
+                transform: rotate(-1turn);
+            }
+        }
+
+        @keyframes dashoffset {
+            0% {
+                stroke-dashoffset: 0;
+            }
+        }
+
+        @keyframes opacity {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+      </style>
+      <defs>
+          <path id="line" fill="none" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M 0 -45 a 45 45 0 0 1 0 90 45 45 0 0 1 0
+      -90" />
+
+          <circle id="circle" r="10" />
+          <use id="circle--large" href="#circle" transform="scale(3)" />
+
+          <mask id="mask__circle">
+              <use fill="hsl(0, 0%, 100%)" href="#circle--large" />
+              <use fill="hsl(0, 0%, 0%)" href="#circle" transform="rotate(45) translate(0 -15)" />
+          </mask>
+
+          <mask id="mask__line">
+              <use href="#line" stroke="hsl(0, 0%, 100%)" />
+              <g transform="rotate(45)">
+
+                  <use id="dashoffset" href="#line" stroke="hsl(0, 0%, 0%)" stroke-dasharray="282.6" stroke-dashoffset="282.6" />
+              </g>
+
+              <g class="opacity">
+
+                  <g transform="rotate(-135)">
+
+                      <use href="#line" stroke="hsl(0, 0%, 0%)" stroke-dasharray="141.3" />
+                  </g>
+              </g>
+          </mask>
+      </defs>
+
+
+      <g mask="url(#mask__line)">
+          <g stroke="hsl(0, 0%, 60%)" stroke-dasharray="4 6">
+              <use href="#line" />
+          </g>
+      </g>
+
+
+      <g fill="currentColor">
+          <g mask="url(#mask__circle)">
+              <use href="#circle--large" />
           </g>
 
-          <g class="opacity">
-
-              <g transform="rotate(-135)">
-
-                  <use href="#line" stroke="hsl(0, 0%, 0%)" stroke-dasharray="141.3" />
+          <g class="rotate">
+              <g transform="rotate(45) translate(0 -45)">
+                  <use href="#circle" />
               </g>
           </g>
-      </mask>
-  </defs>
-
-
-  <g mask="url(#mask__line)">
-      <g stroke="hsl(0, 0%, 60%)" stroke-dasharray="4 6">
-          <use href="#line" />
       </g>
-  </g>
-
-
-  <g fill="currentColor">
-      <g mask="url(#mask__circle)">
-          <use href="#circle--large" />
+      <g fill="hsl(0, 0%, 100%)">
+          <text text-anchor="middle" y="16" font-size="22" style="font-family: sans-serif; word-spacing: -6px;">
+              <tspan font-size="27">V</tspan>
+              <tspan>in</tspan>
+          </text>
       </g>
 
-      <g class="rotate">
-          <g transform="rotate(45) translate(0 -45)">
-              <use href="#circle" />
+
+      <g class="opacity">
+
+          <g transform="rotate(25)">
+              <g fill="hsl(0, 0%, 50%)">
+
+                  <text style="font-family: sans-serif;" font-size="9" dominant-baseline="middle" text-anchor="end" textLength="120">
+
+                      <textPath href="#line" startOffset="100%" textLength="120">
+                          The Vinayak Pandey
+                      </textPath>
+                  </text>
+              </g>
           </g>
       </g>
-  </g>
-  <g fill="hsl(0, 0%, 100%)">
-      <text text-anchor="middle" y="16" font-size="22" style="font-family: sans-serif; word-spacing: -6px;">
-          <tspan font-size="27">V</tspan>
-          <tspan>in</tspan>
-      </text>
-  </g>
-
-
-  <g class="opacity">
-
-      <g transform="rotate(25)">
-          <g fill="hsl(0, 0%, 50%)">
-
-              <text style="font-family: sans-serif;" font-size="9" dominant-baseline="middle" text-anchor="end" textLength="120">
-
-                  <textPath href="#line" startOffset="100%" textLength="120">
-                      The Vinayak Pandey
-                  </textPath>
-              </text>
-          </g>
-      </g>
-  </g>
+    </div>
+  </foriegnobject>
 </svg>
