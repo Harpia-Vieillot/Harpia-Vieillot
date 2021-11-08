@@ -14,7 +14,7 @@
 
 <h1> <img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/dragon.webp" width="70px"> Aʙᴏᴜᴛ Mᴇ </h1>
 
-```
+```python3
 class Vinayak():
     def __init__(self):
         self.name = ['विनायक पांडेय', 'Vinayak Pandey']
