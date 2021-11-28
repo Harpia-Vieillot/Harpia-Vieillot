@@ -43,7 +43,7 @@ class Vinayak():
             'Windows 11', 'Windows 10', 'Windows 7'
         ]
  ```
- [<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/githubsignature.gif" width="75%">](https://github.com/Harpia-Vieillot)
+ [<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/githubsignature.gif" width="100%">](https://github.com/Harpia-Vieillot)
  
  [<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/hr.gif"/>](https://github.com/Harpia-Vieillot)
 
