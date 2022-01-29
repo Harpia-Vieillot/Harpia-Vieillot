@@ -62,7 +62,7 @@ class Vinayak():
 
 <h1> <img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/connect.gif" width="70px" style="border-radius: 50%"> Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ </h1>
 
- [<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/telegram_icon.png" width="75px">](https://t.me/Harpia_Vieillot) [<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/github_icon.png" width="75px">](https://github.com/Harpia-Vieillot)
+ [<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/telegram_icon.png" width="75px">](https://t.me/Harpia_Vieillot) [<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/github_icon.png" width="75px">](https://github.com/Harpia-Vieillot) [<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/discord_logo.png" width="75px">](https://discordapp.com/users/933976831902769192)
 
 [<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/hr.gif"/>](https://github.com/Harpia-Vieillot)
 
