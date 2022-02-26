@@ -31,7 +31,7 @@ class Vinayak():
     def developer_tools(self):
         return [
             'GitHub', 'Stack Overflow', 'Docker','Heroku',
-            'MongoDB', 'MySQL'
+            'MongoDB', 'MySQL', 'Visual Studio Code', 'Azure'
         ]
     def operating_system(self):
         return [
