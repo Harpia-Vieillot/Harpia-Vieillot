@@ -22,11 +22,11 @@ class Vinayak():
         self.language = ['हिंदी', 'English']
     def programming_languages(self):
         return [
-            'Python', 'Java', 'C++'
+            'Python', 'Java', 'C++', 'JavaScript', 'SQL'
         ]
     def markup_languages(self):
         return [
-            'Javasccript', 'HTML', 'CSS'
+            'HTML', 'CSS'
         ]
     def developer_tools(self):
         return [
