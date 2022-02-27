@@ -53,7 +53,6 @@ class Vinayak():
 <h1> <img src = "https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/analytics.webp" width="57px"> Gɪᴛʜᴜʙ Aɴᴀʟʏᴛɪᴄs </h1>
 
 [<img src="https://github-readme-stats.vercel.app/api?username=Harpia-Vieillot&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/Harpia-Vieillot)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harpia-Vieillot&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/Harpia-Vieillot)
-[<img src="https://activity-graph.herokuapp.com/graph?username=Harpia-Vieillot&theme=chartreuse-dark&bg_color=20232a&hide_border=true" width="100%">](https://github.com/Harpia-Vieillot)
 
 [<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/hr.gif"/>](https://github.com/Harpia-Vieillot)
 
