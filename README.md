@@ -68,6 +68,6 @@ class Vinayak():
 
 [<img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/hr.gif"/>](https://github.com/Harpia-Vieillot)
 
-<h1> <img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/songs.gif" width="10%"> Sᴘᴏᴛɪғʏ Pʟᴀʏɪɴɢ </h1>
+<h1> <img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/songs.gif" width="7%"> Sᴘᴏᴛɪғʏ Pʟᴀʏɪɴɢ </h1>
 
 [<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Harpia-Vieillot Spotify Playing" width="75%" />](https://open.spotify.com/user/l5bdgkqogezl2m2xxbx66vpxn)
