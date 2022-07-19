@@ -70,4 +70,4 @@ class Vinayak():
 
 <h1> <img src="https://github.com/Harpia-Vieillot/Harpia-Vieillot/blob/main/resources/songs.gif" width="70px"> Sᴘᴏᴛɪғʏ Pʟᴀʏɪɴɢ </h1>
 
-[<img src="https://spotify-readme-harpia-vieillot.vercel.app/" alt="Harpia-Vieillot Spotify Playing" width="75%" />](https://open.spotify.com/user/l5bdgkqogezl2m2xxbx66vpxn)
+[<img src="https://spotify-readme-harpia-vieillot.vercel.app" alt="Harpia-Vieillot Spotify Playing" width="75%" />](https://open.spotify.com/user/l5bdgkqogezl2m2xxbx66vpxn)
